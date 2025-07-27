@@ -1,0 +1,61 @@
+
+{
+  "projects": [
+    {
+      "date": "18/2/2025",
+      "title": "Expence Manger App",
+      "description": "A full-stack application to track daily expenses, categorize spending, and visualize financial trends using interactive charts and filters.",
+      "url": "https://github.com/Arpit0008/ExpesenseManagerApp",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/04/28/22/00/cost-4164540_640.jpg"
+    },
+    {
+      "date": "11/01/2025",
+      "title": "Twitter Sentiment Analysis",
+      "description": "A machine learning project that analyzes sentiments of tweets using Natural Language Processing to classify them as positive, negative, or neutral.",
+      "url": "https://github.com/Arpit0008/Machine_Learning_TwitterSentimentAnalysis",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/03/18/19/social-media-1795578_640.jpg"
+    },
+    {
+      "date": "18/12/2024",
+      "title": "Fake News Detection",
+      "description": "Implemented a classification model to identify fake news articles using NLP techniques like TF-IDF and logistic regression.",
+      "url": "https://github.com/Arpit0008/Machine_Learning_FakeNewsDetection",
+      "imgSrc": "https://cdn.pixabay.com/photo/2024/03/09/06/27/fake-8622006_640.jpg"
+    },
+    {
+      "date": "15/10/2024",
+      "title": "E-commerce Full Stack Website",
+      "description": "Developed a complete MERN stack e-commerce platform with user authentication, product listings, cart, and payment integration.",
+      "url": "https://github.com/Arpit0008/MERN_STACK_Ecommerce_Website",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/08/07/19/45/ecommerce-2607114_640.jpg"
+    },
+    {
+      "date": "07/07/2024",
+      "title": "University Management System",
+      "description": "A web-based system to manage university operations including student enrollment, faculty details, and course registrations.",
+      "url": "https://github.com/Arpit0008/University-Management-System",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/05/18/22/18/university-5188610_640.jpg"
+    },
+    {
+      "date": "11/10/2023",
+      "title": "VIDEO HUB",
+      "description": "A React-based video platform allowing users to browse, categorize, and view educational and entertainment videos.",
+      "url": "https://github.com/Arpit0008/React_Vedio_Hub",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "28/10/2023",
+      "title": "XCrypto",
+      "description": "A real-time cryptocurrency dashboard that displays market prices, trends, and coin statistics using CoinGecko API.",
+      "url": "https://react-crypto-app-master-gray.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "date": "12/11/2023",
+      "title": "REACT CART",
+      "description": "An interactive shopping cart app built with React, featuring product listing, quantity management, and dynamic price updates.",
+      "url": "https://react-cart-eosin.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    }
+  ]
+}
